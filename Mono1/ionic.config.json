@@ -1,0 +1,7 @@
+{
+  "name": "Mono1",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
