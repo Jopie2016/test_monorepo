@@ -12,3 +12,4 @@ platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.log(err));
 
 //test to add a new commit
+// new change to test
